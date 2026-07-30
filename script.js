@@ -1,10 +1,11 @@
 const firebaseConfig = { 
-  apiKey: "AIzaSyDA1MD_juyLU26Nytxn7kzEcBkpVhS3rbk", 
-  authDomain: "emigrantbook.firebaseapp.com", 
-  databaseURL: "https://emigrantbook-default-rtdb.europe-west1.firebasedatabase.app", 
-  projectId: "emigrantbook", 
-  storageBucket: "emigrantbook.firebasestorage.app", // <-- ეს ხაზი აუცილებლად უნდა იყოს აქ!
-  appId: "1:138873748174:web:2d4422cdd62cd7e594ee9f" 
+  apiKey: "AIzaSyBuB0YSSVVm-woR4y7y28E6AlPkgNRwcdw", 
+  authDomain: "temp-emigrantbook-test.firebaseapp.com", 
+  databaseURL: "https://temp-emigrantbook-test-default-rtdb.europe-west1.firebasedatabase.app", 
+  projectId: "temp-emigrantbook-test", 
+  storageBucket: "temp-emigrantbook-test.firebasestorage.app",
+  messagingSenderId: "584136596688",
+  appId: "1:584136596688:web:e18f1927d4a1adc90d12d5" 
 };
 
 
